@@ -1,2 +1,2 @@
 # CensusBO2024
-This project show how to handle REDATAM data using R. 
+This project shows how to handle REDATAM data using R. 
